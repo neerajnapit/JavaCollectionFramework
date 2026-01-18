@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StackJDemo",
+            "request": "launch",
+            "mainClass": "StackJDemo",
+            "projectName": "JavaCollectionFramework_a97227bd"
+        },
+        {
+            "type": "java",
+            "name": "StackJDemo",
+            "request": "launch",
+            "mainClass": "List.StackDemo.StackJDemo",
+            "projectName": "JavaCollectionFramework_a97227bd"
+        },
+        {
+            "type": "java",
+            "name": "StackJDemo",
+            "request": "launch",
+            "mainClass": "List.Stack.StackJDemo",
+            "projectName": "JavaCollectionFramework_a97227bd"
+        },
+        {
+            "type": "java",
+            "name": "StackJava",
+            "request": "launch",
+            "mainClass": "List.Stack.StackJava",
+            "projectName": "JavaCollectionFramework_a97227bd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
