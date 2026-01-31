@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedHashSetDemo",
+            "request": "launch",
+            "mainClass": "Set.LinkedHashSet.LinkedHashSetDemo",
+            "projectName": "JavaCollectionFramework_a97227bd"
+        },
+        {
+            "type": "java",
+            "name": "HashSetDemo",
+            "request": "launch",
+            "mainClass": "Set.HashSet.HashSetDemo",
+            "projectName": "JavaCollectionFramework_a97227bd"
+        },
+        {
+            "type": "java",
             "name": "StackJDemo",
             "request": "launch",
             "mainClass": "StackJDemo",
